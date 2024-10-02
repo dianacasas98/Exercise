@@ -7,6 +7,6 @@ How are you
 Try to pull
 #Hola
 
-######HOLA small
+###### HOLA small
 
-**bolded* Diana **bolded** Casas
+**Diana*  **Casas** 
